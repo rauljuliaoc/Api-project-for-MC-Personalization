@@ -25,7 +25,7 @@ async function main_init(){
     //-------------*-------------*-------------*-------------*-------------*-------------*-------------*-------------*-------------*-------------*
 
     console.log('------------*------------*------------*------------*------------*')
-    console.log('############ CAT - INTERACTION STUDIO PERSONALIZATION PROJECT ############')
+    console.log('############ INTERACTION STUDIO PERSONALIZATION PROJECT ############')
     console.log('Hello, welcome to USER download csv or json, please, read the instructions')
     console.log(`The account that you are working is: ${accountId}`)
     
