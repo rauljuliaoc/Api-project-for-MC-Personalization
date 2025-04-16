@@ -7,9 +7,9 @@ const readline = require('readline').createInterface({
 });
 
 //Cat information
-const accountId = 'caterpillar.us-1'
-const apiKeyId = 'AACE7DA8-9751-4796-95D4-XXXXXXXXXX'
-const apiKeySecret = '7PQ1N3uhflDq0vrSNqyDBpmrx--XXXXXXXXXXXXX'
+const accountId = 'ACCOUNT_ID'
+const apiKeyId = 'API_ID'
+const apiKeySecret = 'API_KEY_SECRET'
 
 
 main_init()
