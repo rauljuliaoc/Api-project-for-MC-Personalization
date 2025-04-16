@@ -32,7 +32,7 @@ async function main_init(){
     var datasetVal = ''
     do {
         console.log('------------*------------*------------*------------*------------*')
-        datasetVal = prompt('Select the dataset: 1 -> Cat.com - QA | 2 -> PCC - QA | 3 -> Cat.com - Sandbox | 4 -> PCC - Sandbox :')    
+        datasetVal = prompt('Select the dataset: 1 ->  QA | 2 -> DEV - QA | 3 -> PROD - Sandbox | 4 -> DEV 2 - Sandbox :')    
     } while (datasetVal === '');
     
     var fileTypeVal = ''
