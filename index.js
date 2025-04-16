@@ -74,17 +74,13 @@ async function main_init(){
 
     //Dataset name
     if(parseInt(datasetVal) === 1){
-        //CAT.COM - QA
-        datasetId = 'global_impl'
+        datasetId = 'dataset_id1'
     }else if(parseInt(datasetVal) === 2){
-        //PCC - QA
-        datasetId = 'pcc_qa2022'
+        datasetId = 'dataset_id2'
     }else if ( parseInt(datasetVal) === 3){
-        //CAT.COM - SANDBOX
-        datasetId = 'cat_qa2020'
+        datasetId = 'dataset_id1'
     }else if(parseInt(datasetVal) === 4){
-        //PCC - SANDBOX
-        datasetId = 'qaclone'
+        datasetId = 'dataset_id1'
     }
 
     //File type
